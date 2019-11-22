@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Using QGIS
 
-You can use the [editor on GitHub](https://github.com/richardsalex/qgis_basics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+TK
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is a Geographic Information System (GIS)?
 
-### Markdown
+Software that lets you visualize, manipulate and analyze data that has some type of geographic element.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+More information and examples from [National Geographic](https://www.nationalgeographic.org/encyclopedia/geographic-information-system-gis/).
 
-```markdown
-Syntax highlighted code block
+### Types of "features"
 
-# Header 1
-## Header 2
-### Header 3
+Three primary types of "shapes":
+- Points
+- Lines
+- Polygons
 
-- Bulleted
-- List
+### Projections
 
-1. Numbered
-2. List
+TK
 
-**Bold** and _Italic_ and `Code` text
+![Example of map projections](/images/proj.jpg)
 
-[Link](url) and ![Image](src)
-```
+### Making a basic thematic map
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/richardsalex/qgis_basics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TK
