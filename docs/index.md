@@ -1,9 +1,6 @@
 ## QGIS
 
-__Files to download:__
-* [NY counties shapefile](../data/ny_counties.zip)
-* [Median household income estimates](../data/NY_median_income.xlsx)
-* [NY lottery retailers](../data/NYS_Lottery_Retailers.csv)
+__[Download necessary files](/data.zip)__
 
 ## What is a Geographic Information System (GIS)?
 
