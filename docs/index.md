@@ -1,6 +1,8 @@
+## QGIS
+
 ## What is a Geographic Information System (GIS)?
 
-Software that lets you visualize, manipulate and analyze data that has some type of geographic element.
+It's computer software that lets you visualize, manipulate and analyze data that has some type of geographic element.
 
 More information and examples from [National Geographic](https://www.nationalgeographic.org/encyclopedia/geographic-information-system-gis/).
 
