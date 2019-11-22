@@ -1,5 +1,10 @@
 ## QGIS
 
+__Files to download:__
+* [NY counties shapefile](../data/ny_counties.zip)
+* [Median household income estimates](../data/NY_median_income.xlsx)
+* [NY lottery retailers](../data/NYS_Lottery_Retailers.csv)
+
 ## What is a Geographic Information System (GIS)?
 
 It's computer software that lets you visualize, manipulate and analyze data that has some type of geographic element.
