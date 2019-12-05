@@ -50,7 +50,3 @@ For more:
 
 ![Example of map projections](/images/proj.jpg)
 _Image credit: Michael Corey_
-
-## Making a basic thematic map
-
-TK
